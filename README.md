@@ -17,7 +17,7 @@ the telegram bot is made for helping nurses to develop their knowledge in medica
 👤 **Raid Sobhi**
 
 My nickname is MinTech
-- Facebook: [@RaidSobhi](https://www.facebook.com/profile.php?id=100022186326165)
+- Telegram: [@RaidSobhi](https://t.me/Sobhi_raid)
 - Github: [@MinTech](https://github.com/mintech-dot)
 - Youtube: [@MinTech](https://www.youtube.com/channel/UCB2-npj3BTBlO284SYBhpWA)
     
